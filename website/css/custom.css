@@ -1,0 +1,28 @@
+/****** PLACE YOUR CUSTOM STYLES HERE ******/
+.bodaright {
+	border-right: 1px solid #ffffff;
+}
+
+.pr8 {
+	padding-right: 4px;
+}
+
+.sub2{
+	font-size: 10px;
+}
+
+.address input[type="text"] {
+	width: 390px;
+  	text-align: left;
+  	padding: 10px;
+  	margin: 0;
+}
+
+.address input[type="submit"] {
+  width: 160px;
+  margin: 0;
+}
+
+.bidhaa img {
+	width:70%;
+}
