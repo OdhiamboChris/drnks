@@ -929,12 +929,12 @@ nav.bg-dark .logo-dark {
   width: auto;
 }
 .menu li a {
-  font-size: 11px;
-  text-transform: uppercase;
-  font-weight: 600;
+  font-size: 14px;
+  text-transform: none;
+  font-weight: 300;
   letter-spacing: 1px;
   color: #292929;
-  opacity: 0.5;
+  opacity: 0.7;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -943,7 +943,8 @@ nav.bg-dark .logo-dark {
   opacity: 1 !important;
 }
 .menu > li {
-  margin-right: 32px;
+  font-size: 30px;
+  margin-right: 70px;
   float: left;
   position: relative;
   transition: all 0.3s ease;
